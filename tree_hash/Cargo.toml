@@ -14,6 +14,7 @@ categories = ["cryptography::cryptocurrencies"]
 ethereum-types = "0.14.1"
 ethereum_hashing = "1.0.0-beta.2"
 smallvec = "1.6.1"
+triomphe = "0.1.9"
 
 [dev-dependencies]
 rand = "0.8.5"
